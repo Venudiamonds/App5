@@ -7,16 +7,16 @@
    "app_howShowAd":"0",
    "qureka":"https://103.go.mglgamez.com",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
-   "admob_showAdStatus":"1",
+   "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
    "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "mopub_showStatus":"0",
-   "mopub_banner":"096a01b077d442cdbf2b22ce6c2b2373",
-   "mopub_inter1":"aad5f97c0c6e4876b12d7303ed548698",
-   "mopub_inter2":"aad5f97c0c6e4876b12d7303ed548698",
-   "mopub_inter3":"aad5f97c0c6e4876b12d7303ed548698",
-   "mopub_native":"ce8b301b7fea4c59af2bc535579fa7b8"
+   "mopub_showStatus":"1",
+   "mopub_banner":"9dca567330764d0fa7fbd55dc03baa6d",
+   "mopub_inter1":"5a4e7b8f7d97420eb10a52cda8d37935",
+   "mopub_inter2":"5a4e7b8f7d97420eb10a52cda8d37935",
+   "mopub_inter3":"5a4e7b8f7d97420eb10a52cda8d37935",
+   "mopub_native":"2e9e27cd30ee4a05a31daec32c4da987"
 }
