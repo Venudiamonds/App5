@@ -7,16 +7,16 @@
    "app_howShowAd":"0",
    "qureka":"https://282.win.predchamp.com",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
-   "admob_showAdStatus":"1",
+   "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
    "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "mopub_showStatus":"0",
-   "mopub_banner":"c20335ab9398434098e534c6247a1a78",
-   "mopub_inter1":"66bdc854886c43748a4ee1c96f6ddef9",
-   "mopub_inter2":"66bdc854886c43748a4ee1c96f6ddef9",
-   "mopub_inter3":"66bdc854886c43748a4ee1c96f6ddef9",
-   "mopub_native":"6a7b58b4d2d84bbdb323903c7b7e5e01"
+   "mopub_showStatus":"1",
+   "mopub_banner":"81a778c8b5d144c992c937a9925e5893",
+   "mopub_inter1":"7e58b04e75894af59589fada4182cfa9",
+   "mopub_inter2":"7e58b04e75894af59589fada4182cfa9",
+   "mopub_inter3":"7e58b04e75894af59589fada4182cfa9",
+   "mopub_native":"8ae10573caf545c7b837fb2d38bf80f1"
 }
